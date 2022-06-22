@@ -1,0 +1,83 @@
+body {
+  /* background-color: whitesmoke; */
+  background-image: linear-gradient(to top, #7028e4 0%, #e5b2ca 100%);
+}
+
+/* page heading */
+header {
+  font-size: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 3%;
+  color: white;
+}
+
+/* form outer box */
+.login-form-outer {
+  background-color: antiquewhite;
+  margin-top: 1%;
+  margin-left: 15%;
+  width: 1000px;
+  height: 100%;
+}
+
+/*form inner box  */
+.login-form-inner {
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+/* login-button box */
+#log-in {
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  height: 45x;
+  width: 100%;
+}
+/* email log in button */
+.btn-primary {
+  width: 15%;
+  font-size: 130%;
+  border-radius: 10px;
+}
+
+/* camera-image  box */
+.camera{
+   display: flex;
+   justify-content: center;
+margin-top: -5%;
+}
+
+/* camera login button */
+.camera-button{
+    display: flex;
+    justify-content: center;
+}
+
+#camera-log{
+  width:200px;
+}
+/* "OR" between login options box */
+.orr{
+    margin-bottom: -1%;
+    text-align: center;
+    font-size: 30px;
+   margin-top: 5%;
+   font-family: 'Times New Roman', Times, serif;
+}
+/* do not have an account  */
+.donot-have-account{
+    text-align: center;
+}
+a{
+  text-decoration: none;
+}
+.camera-log-in-button{
+  color: white;
+}
+.camera-log-in-button:hover{
+  color: white;
+  
+}

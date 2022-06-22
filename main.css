@@ -1,0 +1,41 @@
+/* body */
+body{
+    background-color: rgb(164, 234, 120);
+}
+/* header */
+.title{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(238, 212, 177);
+}
+
+/* right side of nav bar */
+.logout{
+    display: flex;
+
+}
+
+/* spacing between search and log out button */
+.btn-outline-success{
+    margin-right: 10px
+}
+/* button link color  */
+a{
+    text-decoration: none;
+    color: red;
+}
+a:hover{
+    background-color: rgb(145, 201, 145);
+    color: red;
+}
+
+/* log out button */
+/* #log-out-button:hover{
+background-color: white;
+color: red;
+} */
+#logout:hover{
+    color : red;
+    background-color: rgb(197, 237, 197);
+}
