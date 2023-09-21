@@ -3,6 +3,28 @@
 
 A website to read books online with face recognition login and voice search feature.
 
+##Working
+1. First an user need to signup or log in from the front page.
+   
+![Picture1](https://github.com/Sumit311/Book-worm/assets/87108007/244f3501-7d2f-49e9-b6b4-47528794eb25)
+
+2. For sign up below mentioned detials in the picture are required.
+   
+    ![Picture2](https://github.com/Sumit311/Book-worm/assets/87108007/88fc24cf-dff0-449a-a523-2f913aaaa2a1)
+
+3. Log in can be done using two ways , first is email and password
+
+   ![Picture3](https://github.com/Sumit311/Book-worm/assets/87108007/9c30fcb3-33da-4bb5-b89e-0655aba3f99d)
+
+4. Second way of logging in is by using face login feature
+
+   ![Picture4](https://github.com/Sumit311/Book-worm/assets/87108007/38f13699-13d1-45af-9f56-d078c2ec1326)
+
+5. After logging in user get to the main content page , where the used can read any book or search with the help of voice search feature for a specific book.
+
+   ![Picture5](https://github.com/Sumit311/Book-worm/assets/87108007/1a2b9a97-c3cb-459c-8dc8-4bd5ad503c46)
+
+
 
 ## Installation
 
@@ -41,7 +63,7 @@ A website to read books online with face recognition login and voice search feat
 ## Tools && Libraries Used
 
 ```bash
-Python - face_recognition. 
+Python - face_recognition library. 
 XAMPP - Apache server and MySql database.
 Bootstrap - Design.
 Html, CSS , javascript - Website structure and design.
